@@ -1,7 +1,7 @@
 /* style.css */
 
-p {
-    background-color: #FF0000; font-family: Verdana, DejaVu Sans, sans-serif;
+.odd {
+    background-color: #FF0000; font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .second-class {
