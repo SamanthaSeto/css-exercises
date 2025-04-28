@@ -30,6 +30,7 @@ img {
 .text {
   text-align: center;
   width: 200px;
+  text-wrap: wrap;
 }
 
 /* do not edit this footer */
