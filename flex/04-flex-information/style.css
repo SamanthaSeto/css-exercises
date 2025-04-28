@@ -12,6 +12,14 @@ img {
   font-weight: 900;
 }
 
+.plants {
+  display: flex;
+  justify-content: space-around;
+  gap: 52px;
+  text-wrap: wrap;
+}
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
